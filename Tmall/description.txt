@@ -1,0 +1,6 @@
+The file name of order data is of format Year+month+".txt", such as "201808.txt" indicating order data of Aug. 2018.
+
+In each file, the first line is "n m" where n is the number of categories and m is the number of orders. 
+
+And for each line of the subsequent m lines, the first number is order generation date, the second number is user ID, 
+and the third number is the cardinality of order following the items of this order. 

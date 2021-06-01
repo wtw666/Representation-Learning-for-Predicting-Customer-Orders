@@ -1,0 +1,6 @@
+The dataset from Taobao used for experiment is stored in Taobao.txt.
+
+The first line is "n m" where n is the number of categories and m is the number of orders. 
+
+For each following line, the first number is user ID and the second number is order generation date.
+And the third number is the cardinality of order followed by the items of this order. 
