@@ -1,0 +1,13 @@
+method, order size, ground truth, overlapped ordres, predict
+rank,  1,  302,  0,  0
+rank,  2,  2625,  182,  1989
+rank,  3,  1149,  9,  261
+rank,  4,  468,  1,  12
+rank,  1,  302,  0,  0
+rank,  2,  2625,  180,  1945
+rank,  3,  1149,  6,  292
+rank,  4,  468,  0,  10
+rank,  1,  302,  0,  0
+rank,  2,  2625,  183,  1980
+rank,  3,  1149,  8,  270
+rank,  4,  468,  0,  6
